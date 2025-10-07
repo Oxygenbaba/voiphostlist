@@ -1,6 +1,6 @@
-208.54.148.227 epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
-208.54.34.3 epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
-208.54.32.35 ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
-208.54.2.195 ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org 
+208.54.2.195 epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
+208.54.39.35 epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+208.54.34.3 ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+208.54.39.131 ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org 
 208.54.32.35 ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
-208.54.148.227 ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+208.54.5.195 ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
