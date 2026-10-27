@@ -1,4 +1,18 @@
-208.54.32.35 epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+# =========================================================
+# Title: T-Mobile Wi-Fi Calling (ePDG) Hosts List (for Mainland China)
+# Description: Optimized ePDG/IMS IP mappings for T-Mobile Wi-Fi Calling
+# Updated: 2026-10-27
+# Homepage: https://github.com/Oxygenbaba/voiphostlist
+# =========================================================
+
+# --- T-Mobile Standard ePDG Entry ---
 208.54.148.227 epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
-208.54.39.195 ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
-208.54.39.131 ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+208.54.32.35   epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+208.54.2.195   epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+208.54.39.163  epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+
+# --- T-Mobile Geographic ePDG Entry ---
+208.54.39.163  ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+208.54.2.195   ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+208.54.39.131  ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+208.54.39.195  ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
